@@ -535,24 +535,6 @@
 						(type none)
 					)
 				)
-				(text "${SPICEMODEL}"
-					(at 0 -5.08 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify top)
-					)
-				)
-				(text "${SPICEEXTRA}"
-					(at 0 -7.62 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify top)
-					)
-				)
 				(pin passive line
 					(at -2.54 0 0)
 					(length 0)
@@ -720,24 +702,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(text "${SPICEMODEL}"
-					(at 0 -5.08 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify top)
-					)
-				)
-				(text "${SPICEEXTRA}"
-					(at 0 -7.62 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify top)
 					)
 				)
 				(pin passive line
@@ -7209,24 +7173,6 @@
 						(type none)
 					)
 				)
-				(text "${SPICEMODEL}"
-					(at 0 -5.08 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify top)
-					)
-				)
-				(text "${SPICEEXTRA}"
-					(at 0 -7.62 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify top)
-					)
-				)
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -7370,24 +7316,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(text "${SPICEMODEL}"
-					(at 0 -5.08 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify top)
-					)
-				)
-				(text "${SPICEEXTRA}"
-					(at 0 -7.62 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify top)
 					)
 				)
 				(pin passive line
@@ -8108,24 +8036,6 @@
 						(type none)
 					)
 				)
-				(text "${SPICEMODEL}"
-					(at -2.54 -6.35 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "${SPICEEXTRA}"
-					(at -2.54 -8.89 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify left bottom)
-					)
-				)
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -8255,22 +8165,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(text "${SPICEMODEL}"
-					(at 0 -5.08 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-					)
-				)
-				(text "${SPICEEXTRA}"
-					(at 0 -7.62 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
 					)
 				)
 				(pin passive line
@@ -8414,22 +8308,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(text "${SPICEMODEL}"
-					(at 0 -5.08 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-					)
-				)
-				(text "${SPICEEXTRA}"
-					(at 0 -7.62 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
 					)
 				)
 				(pin passive line
@@ -9200,15 +9078,6 @@
 						(type none)
 					)
 				)
-				(text "${TP_SIGNAL_NAME}"
-					(at 1.27 -1.27 0)
-					(effects
-						(font
-							(size 1.778 1.5113)
-						)
-						(justify left bottom)
-					)
-				)
 				(pin input line
 					(at 0 -2.54 90)
 					(length 2.54)
@@ -9252,28 +9121,6 @@
 			(justify left bottom)
 		)
 		(uuid "a6acac16-9db8-498f-b451-63303400285c")
-	)
-	(text "spi0 debug"
-		(exclude_from_sim no)
-		(at 327.66 154.94 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-			(justify left bottom)
-		)
-		(uuid "bd18b43b-7347-4ecb-ba86-b13d4d6e4928")
-	)
-	(text "spi1 debug"
-		(exclude_from_sim no)
-		(at 325.12 185.42 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-			(justify left bottom)
-		)
-		(uuid "ec3c37fa-604b-449d-b707-9786bd3118b4")
 	)
 	(text "Make sure R7 and R8 are close to RP2350"
 		(exclude_from_sim no)
@@ -9521,6 +9368,12 @@
 		(uuid "73f51f40-3ec0-4e54-8048-4da313145f7d")
 	)
 	(junction
+		(at 84.455 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7461333c-85a0-45d1-acaf-c807d497e3a3")
+	)
+	(junction
 		(at 670.56 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9699,12 +9552,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4b5503f-554b-49e1-903d-1539151e8d17")
-	)
-	(junction
-		(at 487.68 220.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "debff76b-9109-4b80-8b5b-b57b97944e41")
 	)
 	(junction
 		(at 194.31 127)
@@ -9946,16 +9793,6 @@
 	)
 	(wire
 		(pts
-			(xy 487.68 220.98) (xy 487.68 223.52)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "0e18ea81-ba0f-452f-a846-a910b91d8448")
-	)
-	(wire
-		(pts
 			(xy 219.71 157.48) (xy 219.71 154.94)
 		)
 		(stroke
@@ -10086,6 +9923,16 @@
 	)
 	(wire
 		(pts
+			(xy 424.18 208.28) (xy 444.5 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1715ddf5-009c-4b12-960a-bca668cfb256")
+	)
+	(wire
+		(pts
 			(xy 482.6 421.64) (xy 472.44 421.64)
 		)
 		(stroke
@@ -10103,16 +9950,6 @@
 			(type solid)
 		)
 		(uuid "179822b0-121e-4e57-8c00-995c66ee621b")
-	)
-	(wire
-		(pts
-			(xy 487.68 213.36) (xy 487.68 215.9)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "17cd9863-db14-4215-b598-a5621cdf69f7")
 	)
 	(wire
 		(pts
@@ -10176,7 +10013,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.185 194.31) (xy 84.455 194.31)
+			(xy 85.09 194.31) (xy 84.455 194.31)
 		)
 		(stroke
 			(width 0.1524)
@@ -10406,16 +10243,6 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 127) (xy 205.74 127)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "2b3c7f12-3094-4f8a-a41c-94e620c67c00")
-	)
-	(wire
-		(pts
 			(xy 78.105 190.5) (xy 63.5 190.5)
 		)
 		(stroke
@@ -10596,16 +10423,6 @@
 	)
 	(wire
 		(pts
-			(xy 444.5 208.28) (xy 424.18 208.28)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "35319968-52a1-4327-a690-da7d78cca2bc")
-	)
-	(wire
-		(pts
 			(xy 256.54 200.66) (xy 256.54 238.76)
 		)
 		(stroke
@@ -10653,6 +10470,16 @@
 			(type solid)
 		)
 		(uuid "3657d82b-3ff9-4688-bd6d-246064dc232f")
+	)
+	(wire
+		(pts
+			(xy 186.69 127) (xy 184.15 127)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "36c1cee7-6ba8-4b2a-b922-5ce2f4eb680d")
 	)
 	(wire
 		(pts
@@ -10746,16 +10573,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 127) (xy 205.74 109.22)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "3ba65991-185f-4449-817c-e793e54afa5c")
-	)
-	(wire
-		(pts
 			(xy 271.78 337.82) (xy 271.78 355.6)
 		)
 		(stroke
@@ -10816,13 +10633,13 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 127) (xy 196.85 127)
+			(xy 84.455 194.31) (xy 83.185 194.31)
 		)
 		(stroke
-			(width 0.1524)
-			(type solid)
+			(width 0)
+			(type default)
 		)
-		(uuid "3e08602b-33ff-4288-8560-42eb5cd49fa7")
+		(uuid "3e9cb490-e06d-4b43-b617-eab60f5e1634")
 	)
 	(wire
 		(pts
@@ -10923,6 +10740,26 @@
 			(type solid)
 		)
 		(uuid "4339eefe-4d29-45fe-b8a4-e42231871ae0")
+	)
+	(wire
+		(pts
+			(xy 487.68 220.98) (xy 487.68 215.9)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "447b0f60-5d5e-40c2-8187-463d97bc9156")
+	)
+	(wire
+		(pts
+			(xy 189.23 127) (xy 186.69 127)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "456bc3d4-4901-44e4-9a87-beddc8f29ac7")
 	)
 	(wire
 		(pts
@@ -11136,16 +10973,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 127) (xy 186.69 127)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "5290ec4a-9665-44de-8388-ef1025416df0")
-	)
-	(wire
-		(pts
 			(xy 233.68 114.3) (xy 243.84 114.3)
 		)
 		(stroke
@@ -11163,16 +10990,6 @@
 			(type solid)
 		)
 		(uuid "54194fb2-a4de-4c89-8c3d-42bf82527444")
-	)
-	(wire
-		(pts
-			(xy 196.85 127) (xy 200.66 127)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "552e82e6-82f2-4583-a86b-2f882d5d44fa")
 	)
 	(wire
 		(pts
@@ -11263,6 +11080,16 @@
 			(type solid)
 		)
 		(uuid "5a8cb5cd-9ade-4ade-bcc5-627def2eeb1c")
+	)
+	(wire
+		(pts
+			(xy 204.47 127) (xy 200.66 127)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5bab4107-1ecb-4b9d-84b2-24b962e093d9")
 	)
 	(wire
 		(pts
@@ -11516,16 +11343,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 127) (xy 204.47 127)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "6f21065d-eaf7-4dd7-a151-47857bd55003")
-	)
-	(wire
-		(pts
 			(xy 152.4 304.8) (xy 152.4 307.34)
 		)
 		(stroke
@@ -11613,16 +11430,6 @@
 			(type solid)
 		)
 		(uuid "73772033-c5aa-4cf8-a9e7-b2791d779a48")
-	)
-	(wire
-		(pts
-			(xy 186.69 127) (xy 189.23 127)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "7414a9bc-fca0-46d3-9361-61d8cb752cc9")
 	)
 	(wire
 		(pts
@@ -11833,6 +11640,16 @@
 			(type solid)
 		)
 		(uuid "7f331469-e1dc-4e30-8ea4-dd522b67f3d3")
+	)
+	(wire
+		(pts
+			(xy 200.66 127) (xy 196.85 127)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "80e229cc-384a-4a8b-9fef-eed90f77c2d3")
 	)
 	(wire
 		(pts
@@ -12106,13 +11923,13 @@
 	)
 	(wire
 		(pts
-			(xy 589.28 403.86) (xy 589.28 393.7)
+			(xy 205.74 109.22) (xy 205.74 127)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "958eb5f5-ae6a-4a28-b4ba-3beb6468a7e1")
+		(uuid "9556cdb3-567c-431b-bfc8-43b81901c551")
 	)
 	(wire
 		(pts
@@ -12593,6 +12410,16 @@
 			(type solid)
 		)
 		(uuid "b215cb52-8d93-43f9-955f-2982fa36b058")
+	)
+	(wire
+		(pts
+			(xy 196.85 127) (xy 194.31 127)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b2733de5-6d73-4dc2-8423-e364af93a7dd")
 	)
 	(wire
 		(pts
@@ -13426,6 +13253,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 194.31) (xy 84.455 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3106002-708f-448d-9356-d10cfc366507")
+	)
+	(wire
+		(pts
 			(xy 327.66 193.04) (xy 325.12 193.04)
 		)
 		(stroke
@@ -13503,6 +13340,16 @@
 			(type solid)
 		)
 		(uuid "e7e9f5a4-9943-460a-9c61-d538b7a2028f")
+	)
+	(wire
+		(pts
+			(xy 205.74 127) (xy 204.47 127)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e9989924-744c-4e6c-8060-f1189337e650")
 	)
 	(wire
 		(pts
@@ -13736,13 +13583,13 @@
 	)
 	(wire
 		(pts
-			(xy 487.68 215.9) (xy 487.68 220.98)
+			(xy 589.28 393.7) (xy 589.28 403.86)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "f9384bfb-5a26-4f9b-9a00-f46b4bc7d857")
+		(uuid "fb6f89b3-151a-4c45-8542-706369cd64cb")
 	)
 	(wire
 		(pts
@@ -13905,7 +13752,7 @@
 		(uuid "06e10476-1a32-400a-9f3b-b759f41bc097")
 	)
 	(label "+3V3"
-		(at 180.975 127 0)
+		(at 205.74 104.14 0)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -14325,7 +14172,7 @@
 		(uuid "5b7b3a98-be74-4ea0-aea7-215ae12b8983")
 	)
 	(label "GND"
-		(at 487.68 213.36 0)
+		(at 487.68 219.71 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -14415,7 +14262,7 @@
 		(uuid "6bce25d5-0e12-41df-87bb-f8ccad55c609")
 	)
 	(label "GND"
-		(at 444.5 208.28 0)
+		(at 424.18 208.28 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -14795,12 +14642,12 @@
 		(uuid "a1e20275-2d93-49b9-8855-50892cf3b6f3")
 	)
 	(label "GND"
-		(at 83.185 194.31 180)
+		(at 85.09 194.31 0)
 		(effects
 			(font
 				(size 1.016 1.016)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "a1e74589-d4cb-4116-b752-022129389db9")
 	)
@@ -14945,7 +14792,7 @@
 		(uuid "bc0ceb0b-a419-4579-af18-c134b8944563")
 	)
 	(label "+3V3"
-		(at 589.28 396.24 0)
+		(at 589.28 393.7 0)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -15650,8 +15497,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ae7d2f8-b03a-426d-a038-88d915cbda6e")
-		(property "Reference" "UNK##PWR017"
-			(at 117.475 190.5 0)
+		(property "Reference" "#UNK##PWR017"
+			(at 126.238 186.944 0)
 			(effects
 				(font
 					(size 1.27 1.0795)
@@ -15699,7 +15546,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR017")
+					(reference "#UNK##PWR017")
 					(unit 1)
 				)
 			)
@@ -15723,8 +15570,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
-			(at 650.24 79.756 0)
+		(property "Value" "0.47uF"
+			(at 650.494 79.756 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -15792,7 +15639,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "0.1uF"
 			(at 672.084 58.42 0)
 			(effects
 				(font
@@ -15862,7 +15709,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100nF"
 			(at 528.32 285.496 0)
 			(effects
 				(font
@@ -15997,7 +15844,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100n"
 			(at 237.744 114.3 0)
 			(effects
 				(font
@@ -16065,7 +15912,7 @@
 				)
 			)
 		)
-		(property "Value" "RCHIP-0603(1608-METRIC)"
+		(property "Value" "10k"
 			(at 472.44 279.4 0)
 			(effects
 				(font
@@ -16125,7 +15972,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "17a38d38-f9d5-4431-977a-2b249d64d62a")
-		(property "Reference" "UNK##PWR023"
+		(property "Reference" "#UNK##PWR023"
 			(at 294.64 126.365 0)
 			(effects
 				(font
@@ -16174,7 +16021,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR023")
+					(reference "#UNK##PWR023")
 					(unit 1)
 				)
 			)
@@ -16263,7 +16110,7 @@
 				)
 			)
 		)
-		(property "Value" "RESISTOR_CHIP-0805(2012-METRIC)"
+		(property "Value" "0k"
 			(at 444.5 416.56 0)
 			(effects
 				(font
@@ -16396,7 +16243,7 @@
 				)
 			)
 		)
-		(property "Value" "RCHIP-0603(1608-METRIC)"
+		(property "Value" "3.3"
 			(at 132.08 129.54 0)
 			(effects
 				(font
@@ -16463,7 +16310,7 @@
 				)
 			)
 		)
-		(property "Value" "INDUCTORCHIP-0805(2012-METRIC)"
+		(property "Value" "3.3uH"
 			(at 480.06 312.42 0)
 			(effects
 				(font
@@ -16531,12 +16378,13 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "CHIP-FLAT-B_0603-0.35MM"
+		(property "Value" "LED"
 			(at 419.1 317.5 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "FlightComputer:LEDC1608X35N_FLAT-B"
@@ -16815,8 +16663,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29dd00e6-681d-4e38-86a0-1936b5f1462a")
-		(property "Reference" "UNK##PWR09"
-			(at 71.755 200.66 0)
+		(property "Reference" "#UNK##PWR09"
+			(at 72.644 206.502 0)
 			(effects
 				(font
 					(size 1.27 1.0795)
@@ -16864,7 +16712,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR09")
+					(reference "#UNK##PWR09")
 					(unit 1)
 				)
 			)
@@ -17019,8 +16867,8 @@
 				)
 			)
 		)
-		(property "Value" "RESISTOR_CHIP-0805(2012-METRIC)"
-			(at 424.18 330.2 0)
+		(property "Value" "1k"
+			(at 423.672 333.502 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -17185,7 +17033,7 @@
 				)
 			)
 		)
-		(property "Value" "RCHIP-0402(1005-METRIC)"
+		(property "Value" "1k"
 			(at 96.52 198.12 0)
 			(effects
 				(font
@@ -17253,7 +17101,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "4.7u"
 			(at 100.584 154.94 0)
 			(effects
 				(font
@@ -17752,7 +17600,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "41682af7-c86e-41d3-8822-c428cb4388cd")
-		(property "Reference" "UNK##PWR031"
+		(property "Reference" "#UNK##PWR031"
 			(at 358.775 126.365 0)
 			(effects
 				(font
@@ -17801,7 +17649,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR031")
+					(reference "#UNK##PWR031")
 					(unit 1)
 				)
 			)
@@ -17826,7 +17674,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "0.1uF"
 			(at 670.56 216.916 0)
 			(effects
 				(font
@@ -17896,7 +17744,7 @@
 			)
 		)
 		(property "Value" "W25Q32JVSSIQSOIC-8_5P28X5P28_WIN"
-			(at 515.3352 412.5214 0)
+			(at 496.824 413.258 0)
 			(effects
 				(font
 					(size 2.083 1.7705)
@@ -17982,7 +17830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 447.04 129.54 0)
 			(effects
 				(font
@@ -18048,7 +17896,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0402(1005-METRIC)"
+		(property "Value" "15pF"
 			(at 63.5 196.596 0)
 			(effects
 				(font
@@ -18183,7 +18031,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "1uF"
 			(at 649.224 340.36 0)
 			(effects
 				(font
@@ -18243,7 +18091,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4bc0fcd4-a363-4159-9613-5651da437b5d")
-		(property "Reference" "UNK##PWR018"
+		(property "Reference" "#UNK##PWR018"
 			(at 135.89 123.19 0)
 			(effects
 				(font
@@ -18292,7 +18140,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR018")
+					(reference "#UNK##PWR018")
 					(unit 1)
 				)
 			)
@@ -18382,7 +18230,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "2.2uF"
 			(at 659.384 58.42 0)
 			(effects
 				(font
@@ -18520,7 +18368,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100n"
 			(at 268.224 114.3 0)
 			(effects
 				(font
@@ -18671,7 +18519,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "10uF"
 			(at 741.68 333.756 0)
 			(effects
 				(font
@@ -19646,7 +19494,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100n"
 			(at 298.704 114.3 0)
 			(effects
 				(font
@@ -19706,7 +19554,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67ec0fbe-4c58-4bf0-bea4-f044f3954a50")
-		(property "Reference" "UNK##PWR021"
+		(property "Reference" "#UNK##PWR021"
 			(at 187.96 250.19 0)
 			(effects
 				(font
@@ -19755,7 +19603,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR021")
+					(reference "#UNK##PWR021")
 					(unit 1)
 				)
 			)
@@ -19846,7 +19694,7 @@
 			)
 		)
 		(property "Value" "AP62150WU-7TSOT26-WU_DIO"
-			(at 522.9552 300.7614 0)
+			(at 507.492 301.498 0)
 			(effects
 				(font
 					(size 2.083 1.7705)
@@ -19992,7 +19840,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "10nF"
 			(at 674.624 81.28 0)
 			(effects
 				(font
@@ -20060,7 +19908,7 @@
 				)
 			)
 		)
-		(property "Value" "RCHIP-0603(1608-METRIC)"
+		(property "Value" "27"
 			(at 233.68 147.32 0)
 			(effects
 				(font
@@ -20782,7 +20630,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "1.7u"
 			(at 113.284 154.94 0)
 			(effects
 				(font
@@ -21167,7 +21015,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100n"
 			(at 217.424 114.3 0)
 			(effects
 				(font
@@ -21236,7 +21084,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "4.7u"
 			(at 148.844 139.7 0)
 			(effects
 				(font
@@ -21428,8 +21276,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "890edb51-55d2-4f54-9348-574ff615ad9c")
-		(property "Reference" "UNK##PWR020"
-			(at 165.1 109.22 0)
+		(property "Reference" "#UNK##PWR020"
+			(at 173.99 103.632 0)
 			(effects
 				(font
 					(size 1.27 1.0795)
@@ -21477,7 +21325,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR020")
+					(reference "#UNK##PWR020")
 					(unit 1)
 				)
 			)
@@ -21567,7 +21415,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100n"
 			(at 278.384 114.3 0)
 			(effects
 				(font
@@ -21774,7 +21622,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b354a52-493e-4874-ae5f-8c7e12ba7ecd")
-		(property "Reference" "UNK##PWR015"
+		(property "Reference" "#UNK##PWR015"
 			(at 104.14 220.98 0)
 			(effects
 				(font
@@ -21823,7 +21671,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR015")
+					(reference "#UNK##PWR015")
 					(unit 1)
 				)
 			)
@@ -21847,8 +21695,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
-			(at 151.384 111.76 0)
+		(property "Value" "4.7u"
+			(at 148.59 116.84 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -22048,7 +21896,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100n"
 			(at 288.544 114.3 0)
 			(effects
 				(font
@@ -22191,7 +22039,7 @@
 				)
 			)
 		)
-		(property "Value" "RCHIP-0603(1608-METRIC)"
+		(property "Value" "27"
 			(at 233.68 137.16 0)
 			(effects
 				(font
@@ -22391,8 +22239,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
-			(at 141.224 111.76 0)
+		(property "Value" "100n"
+			(at 131.572 115.57 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -22459,7 +22307,7 @@
 				)
 			)
 		)
-		(property "Value" "RCHIP-0603(1608-METRIC)"
+		(property "Value" "1k"
 			(at 109.22 208.28 0)
 			(effects
 				(font
@@ -22527,7 +22375,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CAPACITORCHIP-0805(2012-METRIC)"
+		(property "Value" "0.1u"
 			(at 524.764 104.14 0)
 			(effects
 				(font
@@ -22587,7 +22435,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b5e2d368-a863-4ce8-9340-da4d7efd9863")
-		(property "Reference" "UNK##PWR016"
+		(property "Reference" "#UNK##PWR016"
 			(at 109.22 146.05 0)
 			(effects
 				(font
@@ -22636,7 +22484,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR016")
+					(reference "#UNK##PWR016")
 					(unit 1)
 				)
 			)
@@ -22660,7 +22508,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "10uF"
 			(at 529.844 355.6 0)
 			(effects
 				(font
@@ -22795,7 +22643,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "0.1uF"
 			(at 595.884 226.06 0)
 			(effects
 				(font
@@ -22863,7 +22711,7 @@
 				)
 			)
 		)
-		(property "Value" "RCHIP-0603(1608-METRIC)"
+		(property "Value" "1k"
 			(at 137.16 165.1 0)
 			(effects
 				(font
@@ -23022,7 +22870,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100n"
 			(at 227.584 114.3 0)
 			(effects
 				(font
@@ -23289,8 +23137,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
-			(at 585.216 419.1 0)
+		(property "Value" "100nF"
+			(at 594.614 418.084 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -23358,8 +23206,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CAPACITORCHIP-0805(2012-METRIC)"
-			(at 461.264 147.32 0)
+		(property "Value" "0.1u"
+			(at 462.026 151.13 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -23493,7 +23341,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0402(1005-METRIC)"
+		(property "Value" "100n"
 			(at 258.064 114.3 0)
 			(effects
 				(font
@@ -24081,7 +23929,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100n"
 			(at 161.544 111.76 0)
 			(effects
 				(font
@@ -24222,8 +24070,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CAPACITORCHIP-0805(2012-METRIC)"
-			(at 491.744 213.36 0)
+		(property "Value" "100nF"
+			(at 493.268 215.392 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -24291,7 +24139,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0402(1005-METRIC)"
+		(property "Value" "15pF"
 			(at 63.5 186.436 0)
 			(effects
 				(font
@@ -24426,7 +24274,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "22uF"
 			(at 463.804 322.58 0)
 			(effects
 				(font
@@ -24764,7 +24612,7 @@
 				)
 			)
 		)
-		(property "Value" "RESISTOR_CHIP-0805(2012-METRIC)"
+		(property "Value" "10k"
 			(at 525.78 401.32 0)
 			(effects
 				(font
@@ -25489,7 +25337,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "CCHIP-0603(1608-METRIC)"
+		(property "Value" "100n"
 			(at 247.904 114.3 0)
 			(effects
 				(font
@@ -25557,7 +25405,7 @@
 				)
 			)
 		)
-		(property "Value" "INDUCTORCHIP-0805(2012-METRIC)"
+		(property "Value" "3.3u"
 			(at 129.54 152.4 0)
 			(effects
 				(font
@@ -25754,8 +25602,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ffd79a50-f0d6-4447-858a-ee7cfd1026c3")
-		(property "Reference" "UNK##PWR012"
-			(at 84.455 200.66 0)
+		(property "Reference" "#UNK##PWR012"
+			(at 85.852 206.756 0)
 			(effects
 				(font
 					(size 1.27 1.0795)
@@ -25803,7 +25651,7 @@
 		(instances
 			(project ""
 				(path "/91d9bad4-a191-4256-b89f-65c2acf11eae"
-					(reference "UNK##PWR012")
+					(reference "#UNK##PWR012")
 					(unit 1)
 				)
 			)

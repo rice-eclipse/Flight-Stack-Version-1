@@ -5269,24 +5269,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -5428,24 +5410,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -5591,24 +5555,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -5750,24 +5696,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -5913,24 +5841,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -6072,24 +5982,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -6235,24 +6127,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -6394,24 +6268,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -6557,24 +6413,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -6716,24 +6554,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -6879,24 +6699,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -7038,24 +6840,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -7201,24 +6985,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -7362,24 +7128,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -7521,24 +7269,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -7710,24 +7440,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -7895,24 +7607,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -8084,24 +7778,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -8269,24 +7945,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -8458,24 +8116,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -8643,24 +8283,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -8832,24 +8454,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -9017,24 +8621,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -10718,24 +10304,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -10903,24 +10471,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -11465,24 +11015,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -11650,24 +11182,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -11839,24 +11353,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -12024,24 +11520,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -14928,24 +14406,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -15113,24 +14573,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -15302,24 +14744,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -15487,24 +14911,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -15676,24 +15082,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -15861,24 +15249,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -16050,24 +15420,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -16235,24 +15587,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -16424,24 +15758,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -16609,24 +15925,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -16798,24 +16096,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -16983,24 +16263,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -17172,24 +16434,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -17357,24 +16601,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -20261,24 +19487,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -20446,24 +19654,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -20635,24 +19825,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -20820,24 +19992,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -21009,24 +20163,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -21194,24 +20330,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -21383,24 +20501,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -21568,24 +20668,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -21757,24 +20839,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -21942,24 +21006,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -22131,24 +21177,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -22316,24 +21344,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -22505,24 +21515,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -2.54 0 0)
 				(length 0)
@@ -22690,24 +21682,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -30926,22 +29900,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -31071,22 +30029,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -31220,22 +30162,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -31365,22 +30291,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -31514,22 +30424,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -31659,22 +30553,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -31808,22 +30686,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -31953,22 +30815,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -32102,22 +30948,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -32247,22 +31077,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -32396,22 +31210,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -32543,22 +31341,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -32688,22 +31470,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -43179,24 +41945,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -43340,24 +42088,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -43505,24 +42235,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -43666,24 +42378,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -43831,24 +42525,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -43992,24 +42668,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -44157,24 +42815,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -44318,24 +42958,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -44483,24 +43105,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -44642,22 +43246,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -44803,22 +43391,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -44960,22 +43532,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -45121,22 +43677,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -45278,22 +43818,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -45439,22 +43963,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -45596,22 +44104,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -45757,22 +44249,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -45914,22 +44390,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -46075,22 +44535,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -46232,22 +44676,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -46393,22 +44821,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -46552,22 +44964,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -46709,22 +45105,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -46872,24 +45252,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -47033,24 +45395,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -47198,24 +45542,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -47359,24 +45685,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -48907,24 +47215,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -49068,24 +47358,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -49233,24 +47505,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -49394,24 +47648,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -49559,24 +47795,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -49720,24 +47938,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -49885,24 +48085,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -50046,24 +48228,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -50211,24 +48375,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -50372,24 +48518,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -50537,24 +48665,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -50698,24 +48808,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -50863,24 +48955,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -51024,24 +49098,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -51189,24 +49245,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -51350,24 +49388,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -51515,24 +49535,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -51676,24 +49678,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -51841,24 +49825,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -52002,24 +49968,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -52167,24 +50115,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -52328,24 +50258,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -52493,24 +50405,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -52654,24 +50548,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -52819,24 +50695,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -52980,24 +50838,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify top)
 				)
 			)
 			(pin passive line
@@ -53501,15 +51341,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -53635,15 +51466,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -53773,15 +51595,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -53907,15 +51720,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -54045,15 +51849,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -54179,15 +51974,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -54317,15 +52103,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -54451,15 +52228,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -55383,15 +53151,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -55517,15 +53276,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -55655,15 +53405,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -55789,15 +53530,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -55927,15 +53659,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -56061,15 +53784,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -56199,15 +53913,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -56333,15 +54038,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -56471,15 +54167,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -56605,15 +54292,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -56743,15 +54421,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -56877,15 +54546,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -57015,15 +54675,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -57149,15 +54800,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -57287,15 +54929,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -57421,15 +55054,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -57559,15 +55183,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -57693,15 +55308,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -57831,15 +55437,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -57965,15 +55562,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -58103,15 +55691,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -58237,15 +55816,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -58375,15 +55945,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -58509,15 +56070,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -58647,15 +56199,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -58781,15 +56324,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -58919,15 +56453,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -59053,15 +56578,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -59191,15 +56707,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -59327,15 +56834,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -59459,24 +56957,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -59622,24 +57102,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -59781,24 +57243,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -59944,24 +57388,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -60103,24 +57529,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -60266,24 +57674,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -60425,24 +57815,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -60588,24 +57960,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -60747,24 +58101,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -60910,24 +58246,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -61069,24 +58387,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -61232,24 +58532,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -61391,24 +58673,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -61554,24 +58818,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -61715,24 +58961,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -61862,22 +59090,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -62011,22 +59223,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -62156,22 +59352,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -62305,22 +59485,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -62450,22 +59614,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -62599,22 +59747,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -62744,22 +59876,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -62893,22 +60009,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -63038,22 +60138,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -63187,22 +60271,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -63332,22 +60400,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -63481,22 +60533,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -63626,22 +60662,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -63787,22 +60807,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -63944,22 +60948,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -64105,22 +61093,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -64262,22 +61234,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -64423,22 +61379,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -64580,22 +61520,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -64741,22 +61665,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -64898,22 +61806,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -65059,22 +61951,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -65216,22 +62092,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -65377,22 +62237,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -65534,22 +62378,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -65695,22 +62523,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -65852,22 +62664,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -66013,24 +62809,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -66172,24 +62950,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -66335,24 +63095,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -66494,24 +63236,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -66657,24 +63381,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -66816,24 +63522,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -66979,24 +63667,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -67138,24 +63808,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -67301,24 +63953,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -67460,24 +64094,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -67623,24 +64239,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -67782,24 +64380,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -67945,24 +64525,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -68104,24 +64666,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin passive line
@@ -68267,24 +64811,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at -2.54 -6.35 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at -2.54 -8.89 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -68414,22 +64940,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -68563,22 +65073,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -68708,22 +65202,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -68857,22 +65335,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -69002,22 +65464,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -69151,22 +65597,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -69296,22 +65726,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -69445,22 +65859,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -69590,22 +65988,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -69739,22 +66121,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -69884,22 +66250,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -70033,22 +66383,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -70178,22 +66512,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -70339,22 +66657,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -70496,22 +66798,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -70657,22 +66943,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -70814,22 +67084,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -70975,22 +67229,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -71132,22 +67370,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -71293,22 +67515,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -71450,22 +67656,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -71611,22 +67801,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -71768,22 +67942,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -71929,22 +68087,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -72086,22 +68228,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -72247,22 +68373,6 @@
 					(type none)
 				)
 			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -72404,22 +68514,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${SPICEMODEL}"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-				)
-			)
-			(text "${SPICEEXTRA}"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
 				)
 			)
 			(pin passive line
@@ -74581,15 +70675,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -74715,15 +70800,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -74853,15 +70929,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -74987,15 +71054,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -75125,15 +71183,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -75259,15 +71308,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -75397,15 +71437,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -75531,15 +71562,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -75669,15 +71691,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -75803,15 +71816,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -75941,15 +71945,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -76075,15 +72070,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -76213,15 +72199,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -76347,15 +72324,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -76485,15 +72453,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -76619,15 +72578,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -76757,15 +72707,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -76891,15 +72832,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -77029,15 +72961,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -77163,15 +73086,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -77301,15 +73215,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -77435,15 +73340,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -77573,15 +73469,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -77707,15 +73594,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -77845,15 +73723,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -77979,15 +73848,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -78117,15 +73977,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -78251,15 +74102,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -78389,15 +74231,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -78523,15 +74356,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -78661,15 +74485,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -78795,15 +74610,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -78933,15 +74739,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -79067,15 +74864,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -79205,15 +74993,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -79339,15 +75118,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -79477,15 +75247,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -79611,15 +75372,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -79749,15 +75501,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -79883,15 +75626,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -80021,15 +75755,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -80155,15 +75880,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -80293,15 +76009,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -80427,15 +76134,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -80565,15 +76263,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -80699,15 +76388,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -80837,15 +76517,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -80971,15 +76642,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -81109,15 +76771,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -81243,15 +76896,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -81381,15 +77025,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -81515,15 +77150,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -81653,15 +77279,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -81787,15 +77404,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -81925,15 +77533,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -82059,15 +77658,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -82197,15 +77787,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -82331,15 +77912,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -82469,15 +78041,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -82603,15 +78166,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -82741,15 +78295,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -82875,15 +78420,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -83013,15 +78549,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -83147,15 +78674,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -83285,15 +78803,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -83419,15 +78928,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -83557,15 +79057,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -83691,15 +79182,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -83829,15 +79311,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -83963,15 +79436,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -84101,15 +79565,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -84235,15 +79690,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -84373,15 +79819,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -84507,15 +79944,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
@@ -84645,15 +80073,6 @@
 					(type none)
 				)
 			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
@@ -84779,15 +80198,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(text "${TP_SIGNAL_NAME}"
-				(at 1.27 -1.27 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
 				)
 			)
 			(pin input line
