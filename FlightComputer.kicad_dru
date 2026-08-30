@@ -1,8 +1,9 @@
 (version 1)
-(rule "class 0:0"
-  (condition "A.NetClass == 'Default' && B.NetClass == 'Default'")
-  (constraint clearance (min 0.15mm)))
 
-(rule "class 1:1"
-  (condition "A.NetClass == 'USB_DIFF_90' && B.NetClass == 'USB_DIFF_90'")
-  (constraint clearance (min 0.15mm)))
+# USB differential pair: limit uncoupled length so the pair doesn't split
+# apart around obstacles. 90-ohm geometry is set in the USB_DIFF_90 net class
+# (0.2mm width / 0.15mm gap for JLC04161H-7628 — verify with JLCPCB impedance
+# calculator before routing USB).
+(rule "USB diff pair uncoupled limit"
+  (condition "A.inDiffPair('/USB_*')")
+  (constraint diff_pair_uncoupled (max 5mm)))

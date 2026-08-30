@@ -1,4 +1,4 @@
-(footprint "SOIC-8_5P28X5P28_WIN_vf.4SLI-vSHT32P18eDruVvKA"
+(footprint "SOIC-8_5P28X5P28_WIN"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
