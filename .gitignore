@@ -1,0 +1,37 @@
+# ---- KiCad ignore (committed, shared with all forks/clones) ----
+# Keeps auto-generated, per-user, and lock files out of the repo so
+# contributors don't accidentally commit them (e.g. via `git add .`).
+
+# Per-user project-local UI state (layer visibility, window layout, etc.)
+*.kicad_prl
+
+# Editor lock files (present only while a file is open in KiCad)
+*.lck
+~*.lck
+*~
+
+# Footprint info cache (regenerated automatically on open)
+fp-info-cache
+
+# Auto-backup archives
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.bak
+
+# Autosave files
+_autosave-*
+*.000
+
+# Exported/generated output (regenerate from source; don't track)
+/gerbers/
+/production/
+*.net
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# ---- KEEP (do NOT ignore) the real project sources ----
+# .kicad_pro  .kicad_sch  .kicad_pcb  .kicad_dru  .kicad_sym
+# .pretty/    fp-lib-table  sym-lib-table
