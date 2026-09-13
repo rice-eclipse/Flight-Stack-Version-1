@@ -156,7 +156,7 @@
 		(at 171.63565 120.4976)
 		(descr "Chip, 1.05 X 0.54 X 0.40 mm body\n\nChip package with body size 1.05 X 0.54 X 0.40 mm")
 		(property "Reference" "R10"
-			(at 0 2.0024 0)
+			(at -0.63565 1.0024 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "8969aee0-2f04-4c08-a1e4-8d94b474239c")
@@ -1655,7 +1655,7 @@
 		(at 153.2205 92.3036 -90)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C30"
-			(at 0 -2.54 270)
+			(at 1.6964 1.7205 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "42c55822-0ea6-4e98-be90-2807358a0c31")
@@ -2090,7 +2090,7 @@
 		(at 147.7391 90.5256 -90)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C28"
-			(at 0 -2.54 270)
+			(at -0.0256 1.7391 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "1e53f1c7-4669-41d9-b613-3b179809579c")
@@ -3389,7 +3389,7 @@
 		(at 159.6771 94.74905 180)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C24"
-			(at 0 -2.54 180)
+			(at -3.3229 0.24905 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "ff99c14c-2fc9-42cc-bc2d-719cd4aef3be")
@@ -3818,7 +3818,7 @@
 		(at 150.7871 105.5116 -90)
 		(descr "Chip, 1.05 X 0.54 X 0.40 mm body\n\nChip package with body size 1.05 X 0.54 X 0.40 mm")
 		(property "Reference" "R3"
-			(at -1.5116 -3.7129 0)
+			(at -0.5116 -4.2129 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "35a97f05-c71e-4e76-8de4-0118d9d1d711")
@@ -4107,7 +4107,7 @@
 		(uuid "3ae27c52-04f0-41c0-b4f1-9d37d507358a")
 		(at 167.5511 90.5256 -90)
 		(property "Reference" "GYROSCOPE0"
-			(at -1.753268 -2.003731 270)
+			(at -2.0256 3.0511 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b052438b-3313-4717-9c80-2d45ed0f18bf")
@@ -4618,7 +4618,7 @@
 		(at 171.3611 87.2236 180)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C9"
-			(at 0 -2.54 180)
+			(at -2.6389 0.2236 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "14a3e58f-77c4-4fc8-9a84-ba624f21cc26")
@@ -4763,7 +4763,7 @@
 		(at 170.0911 83.4136)
 		(descr "Mounting Hole 2.7mm, no annular, M2.5")
 		(property "Reference" "H1"
-			(at 0 -3.7 0)
+			(at 0 -2.4136 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "27162aa4-54fe-4628-b06b-6578eeb29d9d")
@@ -5188,7 +5188,7 @@
 		(at 151.2951 91.7956 -90)
 		(descr "Chip, 1.60 X 0.82 X 0.60 mm body\n\nChip package with body size 1.60 X 0.82 X 0.60 mm")
 		(property "Reference" "R8"
-			(at 0 -2.54 270)
+			(at -2.7956 -0.2049 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "c2fe19b3-a696-426a-9ff0-5830c92aa659")
@@ -5687,10 +5687,10 @@
 		(at 160.6931 98.3996 180)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C27"
-			(at 0 -2.54 180)
+			(at -2.8069 0.8996 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "49e4cc53-4a9b-43b8-8453-221cc160f481")
+			(uuid "e5f62edf-2c50-410f-84af-522114bb6fc1")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -5703,7 +5703,7 @@
 			(at 0 2.54 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "b5817118-737d-4b53-8481-823617d627fe")
+			(uuid "7106f77b-671a-473a-9035-9af889fa89a6")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -5716,7 +5716,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0533242a-7951-4560-8b70-d53b92295e6e")
+			(uuid "231d7df7-bb62-4dba-a41a-54e125987197")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5728,7 +5728,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d328802e-6cd8-456f-b3c1-af3740a8000e")
+			(uuid "4bbff623-8abd-4554-bfbd-ab665f816604")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5832,7 +5832,7 @@
 		(at 165.7731 81.1276 90)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C12"
-			(at 0 -2.54 90)
+			(at 0 1.2269 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a86b3dba-2238-4e9d-a5dd-184283bfe733")
@@ -6434,7 +6434,7 @@
 		(at 163.9951 83.6676)
 		(descr "Pin Header")
 		(property "Reference" "CS_ACCEL0"
-			(at 0 -2.54 0)
+			(at 0.0049 2.3324 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "627297aa-ad69-4716-b31a-667f82253e3a")
@@ -6875,7 +6875,7 @@
 		(at 178.4731 121.2596 90)
 		(descr "Chip, 1.05 X 0.54 X 0.40 mm body\n\nChip package with body size 1.05 X 0.54 X 0.40 mm")
 		(property "Reference" "R16"
-			(at -2.7404 -2.54 90)
+			(at -2.7404 -0.9731 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3b63a89a-0b41-4250-8055-00e355de685e")
@@ -7020,7 +7020,7 @@
 		(at 173.3931 121.5136 -90)
 		(descr "Chip, 1.05 X 0.54 X 0.40 mm body\n\nChip package with body size 1.05 X 0.54 X 0.40 mm")
 		(property "Reference" "R9"
-			(at 1.4864 -2.1069 270)
+			(at 2.4864 -0.6069 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "dee1a39d-6a40-48bd-8b5b-c7ff97d8a79e")
@@ -7320,7 +7320,7 @@
 		(at 158.1531 91.7956 -135)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C31"
-			(at 0 -2.54 225)
+			(at -0.454316 2.085046 45)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "72dd59a2-92c1-4008-85e3-b25f2abb9478")
@@ -7464,12 +7464,12 @@
 		(uuid "6ff96da6-3e46-4b26-948b-557d43a7a31b")
 		(at 163.2331 80.6196)
 		(property "Reference" "ACCELEROMETER0"
-			(at 0 0 0)
+			(at -0.2331 -2.1196 0)
 			(layer "F.SilkS")
 			(uuid "48c02790-2029-475d-a7d5-3752b3e40549")
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8940,7 +8940,7 @@
 		(at 159.6771 109.0676)
 		(descr "Pin Header")
 		(property "Reference" "CS_GYRO0"
-			(at 0 -2.54 0)
+			(at 0.8229 -4.0676 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "4b469307-5bc9-4b53-8af2-4876ce81004c")
@@ -9107,7 +9107,7 @@
 		(at 159.9126 102.30605 180)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C22"
-			(at 0 -2.54 180)
+			(at -4.5874 0.80605 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "0b23a70e-6ac8-480f-a896-caf49604f987")
@@ -9252,7 +9252,7 @@
 		(at 175.19165 118.4656)
 		(descr "Chip, 1.05 X 0.54 X 0.40 mm body\n\nChip package with body size 1.05 X 0.54 X 0.40 mm")
 		(property "Reference" "R13"
-			(at 0.80835 -2.4656 0)
+			(at 1.30835 -1.9656 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "380844b8-f234-4a25-86b8-926ed04b3b4d")
@@ -9397,7 +9397,7 @@
 		(at 128.4351 96.6216 -90)
 		(descr "Chip, 2.00 X 1.25 X 1.10 mm body\n\nChip package with body size 2.00 X 1.25 X 1.10 mm")
 		(property "Reference" "C6"
-			(at 0 -1.6817 270)
+			(at 0 1.4351 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "bb0e7020-c9fe-462d-aade-00d8c5dfb5c6")
@@ -10918,7 +10918,7 @@
 		(at 171.3611 90.7796 180)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C7"
-			(at 0 -2.54 180)
+			(at -2.6389 0.2796 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "46c9e8ae-a3ef-4717-8287-3771a278b210")
@@ -11208,7 +11208,7 @@
 		(at 171.3611 93.0656 180)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C34"
-			(at 0 -2.54 180)
+			(at -3.1389 0.5656 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "6f1fedeb-c814-4472-9e9c-1f96f3aeb4c5")
@@ -12553,7 +12553,7 @@
 		(at 155.1051 92.3036 -90)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C23"
-			(at 0 -2.54 270)
+			(at 1.6964 0.1051 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "86189fb0-67a7-43e5-b9b4-2f6e6a6acf48")
@@ -12843,7 +12843,7 @@
 		(at 149.62555 91.7956 -90)
 		(descr "Chip, 1.60 X 0.82 X 0.60 mm body\n\nChip package with body size 1.60 X 0.82 X 0.60 mm")
 		(property "Reference" "R7"
-			(at 0 -2.54 270)
+			(at -2.7956 -0.37445 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "07bd222d-67dd-42a6-883e-977ac29bc1f2")
@@ -13062,10 +13062,10 @@
 		(at 160.4391 96.6216 180)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C17"
-			(at 0 -2.54 180)
+			(at -3.0609 0.6216 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "9fdf7c31-7870-4a0b-bb91-d171f441ad98")
+			(uuid "63e639e3-ab58-4d59-8ab8-1e801d4031f7")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -13078,7 +13078,7 @@
 			(at 0 2.54 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "e2889dfb-5bf1-4701-b446-0f4226fc502e")
+			(uuid "1afb317e-477c-40a6-9b04-252c6405e496")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -13091,7 +13091,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8784dec1-e008-4184-aeac-8511ea63f703")
+			(uuid "5db213d8-649c-4876-840b-f76900918550")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13103,7 +13103,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "acd6d2ff-f537-45dc-83d0-11fd75acfb69")
+			(uuid "8179da3f-9204-4140-863f-4e0e0e3bd16b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13206,7 +13206,7 @@
 		(uuid "a177c70f-76ac-460d-99ad-b8db182ac313")
 		(at 176.1871 120.4976 -90)
 		(property "Reference" "U2"
-			(at -2.4976 -0.8129 270)
+			(at 2.0024 0.6871 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d842a97e-89a5-4ea8-8a30-8bee0afb0478")
@@ -14068,7 +14068,7 @@
 		(at 173.6471 119.7356 -90)
 		(descr "Chip, 1.05 X 0.54 X 0.40 mm body\n\nChip package with body size 1.05 X 0.54 X 0.40 mm")
 		(property "Reference" "R15"
-			(at 0 -2.54 270)
+			(at -2.7356 -0.3529 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "850ea348-d398-4d60-a6bc-cc5949c78d5c")
@@ -14213,7 +14213,7 @@
 		(at 144.1831 101.1936)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C21"
-			(at 0 -2.54 0)
+			(at 0 1.3064 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "74e6398e-c0e6-47fb-a0b8-18a10535f46c")
@@ -15487,7 +15487,7 @@
 		(at 171.3611 89.0016 180)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C10"
-			(at 0 -2.54 180)
+			(at -3.1389 0.5016 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "937db91f-dc8f-4d45-871e-65a6207001cd")
@@ -15632,7 +15632,7 @@
 		(at 159.6771 100.4316 180)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C18"
-			(at 0 -2.54 180)
+			(at -3.3229 0.4316 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "547f3b31-e120-4c8f-baa5-b84fa872e44e")
@@ -15777,7 +15777,7 @@
 		(at 148.7551 105.7656 90)
 		(descr "Chip, 1.00 X 0.50 X 0.60 mm body\n\nChip package with body size 1.00 X 0.50 X 0.60 mm")
 		(property "Reference" "C19"
-			(at 0 -2.54 90)
+			(at 0.2656 -2.2551 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "77c22c2f-c489-4df1-8f9b-83809a807773")
@@ -16067,10 +16067,10 @@
 		(at 154.5971 89.71895 180)
 		(descr "Chip, 2.00 X 0.90 X 1.20 mm body\n\nChip package with body size 2.00 X 0.90 X 1.20 mm")
 		(property "Reference" "L1"
-			(at 0 -1.5542 180)
+			(at 0.0971 1.21895 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "f3678b5c-3260-4933-8302-2bab8529b0b2")
+			(uuid "919b7ed4-c145-423c-92a7-35dad403c71e")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -16083,7 +16083,7 @@
 			(at 0 1.5542 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "99d2b11d-3d1b-497d-b8e7-df0f1f19afa8")
+			(uuid "ac364956-9668-4fcc-b53f-bcebd188e30d")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -16096,7 +16096,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "adaada76-c852-43cd-b0ca-411c412e38e0")
+			(uuid "81fc8943-97cd-41c0-99c0-f581250977eb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16108,7 +16108,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8ced9fe5-70f1-4247-9caa-c2c5181be419")
+			(uuid "79c5d2a4-a8fe-4a5b-8ffb-8edbed7e6adb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16212,7 +16212,7 @@
 		(at 152.8191 106.0196 90)
 		(descr "Chip, 1.60 X 0.80 X 0.85 mm body\n\nChip package with body size 1.60 X 0.80 X 0.85 mm")
 		(property "Reference" "C25"
-			(at 2.5196 -2.3191 0)
+			(at 2.5196 0.1809 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "ec5d30f8-abd7-4a7d-b790-b246e7c5bbc1")
@@ -17140,7 +17140,7 @@
 		(at 133.2611 100.9396)
 		(descr "Pin Header")
 		(property "Reference" "CS_IMU0"
-			(at 0 -2.54 0)
+			(at 0.2389 2.0604 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "68a1cce5-dba6-4e16-9c2e-7f3797db3570")
@@ -18872,7 +18872,7 @@
 		(at 178.5541 119.4816 -90)
 		(descr "Chip, 1.00 X 0.50 X 0.60 mm body\n\nChip package with body size 1.00 X 0.50 X 0.60 mm")
 		(property "Reference" "C4"
-			(at 0 -2.54 270)
+			(at 0.0184 -2.4459 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "c91b45c7-510a-4edf-ae79-7bfa5e254010")
@@ -19019,7 +19019,7 @@
 			(at -2.5 -2 270)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "2f12d2df-54de-4420-95b8-8e384e43b141")
+			(uuid "5e5c840b-5267-481c-87b0-55962e3d09ca")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -19032,7 +19032,7 @@
 			(at -2.5 2 270)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "6d392c91-1686-43f1-b007-0261964c108e")
+			(uuid "1df20965-459c-47de-a169-0541f8cdbc7e")
 			(effects
 				(font
 					(size 1.1684 1.1684)
@@ -19045,7 +19045,7 @@
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4166b103-383a-4806-a5ba-3f5867a48dcd")
+			(uuid "b93fa7e7-aa74-431a-ad15-bce3b7348a7a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19057,7 +19057,7 @@
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d37ed73a-1807-4966-8217-c6add7af1cf1")
+			(uuid "2ab981b5-9036-4d98-b3d8-851eba460431")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19654,7 +19654,7 @@
 		(uuid "eea4d5c7-6406-42fe-af66-9b7004334897")
 		(at 129.4511 90.0176 -90)
 		(property "Reference" "BAROMETER0"
-			(at -2.034131 -2.924059 270)
+			(at 2.9824 3.4511 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a9b4664c-de7f-4d75-8676-ecd2be9efdd0")
@@ -20446,7 +20446,7 @@
 		(at 131.4831 86.7156 180)
 		(descr "Chip, 2.00 X 1.25 X 1.10 mm body\n\nChip package with body size 2.00 X 1.25 X 1.10 mm")
 		(property "Reference" "C33"
-			(at 0 -1.6817 180)
+			(at -0.0169 1.2156 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "0e685e91-8d6f-4e03-9011-20ecd905751d")
