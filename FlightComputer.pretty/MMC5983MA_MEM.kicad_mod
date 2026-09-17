@@ -918,4 +918,9 @@
 		(uuid "c10692ca-b77b-4082-a284-062278ad1b00")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/steps/MMC5983MA--3DModel-STEP-269445.STEP"
+		(offset (xyz 0 0 0))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
 )

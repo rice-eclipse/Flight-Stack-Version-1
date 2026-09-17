@@ -480,4 +480,9 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/steps/DM3D-SF--3DModel-STEP-56544.STEP"
+		(offset (xyz 0 0 0))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
 )

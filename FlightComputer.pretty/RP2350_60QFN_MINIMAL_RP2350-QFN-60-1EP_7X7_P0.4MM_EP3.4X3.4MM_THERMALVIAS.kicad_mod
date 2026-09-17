@@ -925,4 +925,9 @@
 		(uuid "648febd3-29bf-47b4-a59e-55f624bcc900")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/steps/RP2350A-QFN60.step"
+		(offset (xyz 0 0 0))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
 )

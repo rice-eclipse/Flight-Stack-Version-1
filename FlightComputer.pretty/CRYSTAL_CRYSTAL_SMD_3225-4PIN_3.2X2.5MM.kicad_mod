@@ -211,7 +211,7 @@
 		(uuid "20f6f6a6-cb61-4d69-a4c2-2a4f640f0415")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.step"
+	(model "${KIPRJMOD}/steps/ABM8-272-T3.STEP"
 		(offset (xyz 0 0 0))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

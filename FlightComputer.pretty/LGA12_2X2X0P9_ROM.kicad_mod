@@ -1433,4 +1433,9 @@
 		(uuid "0a50a3d4-a5e1-4e45-9116-1a1facd72397")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/steps/KX134-1211--3DModel-STEP-269445.STEP"
+		(offset (xyz 0 0 0))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
 )

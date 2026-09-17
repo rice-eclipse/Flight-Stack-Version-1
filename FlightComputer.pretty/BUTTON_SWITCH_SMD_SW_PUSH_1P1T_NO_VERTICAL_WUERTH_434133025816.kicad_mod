@@ -303,4 +303,9 @@
 		(uuid "7ffe8f49-31e8-4cdd-8b3d-e36796aa3d2d")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/steps/Wurth_434133025816.step"
+		(offset (xyz 0 0 0))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
 )

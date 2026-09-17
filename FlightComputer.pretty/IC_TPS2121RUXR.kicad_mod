@@ -460,4 +460,9 @@
 		(uuid "537d0886-7742-4572-ae41-e9b18ec50d62")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/steps/TPS2121RUXR--3DModel-STEP-510211.STEP"
+		(offset (xyz 0 0 0))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
 )

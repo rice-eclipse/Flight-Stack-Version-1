@@ -35,3 +35,8 @@ Thumbs.db
 # ---- KEEP (do NOT ignore) the real project sources ----
 # .kicad_pro  .kicad_sch  .kicad_pcb  .kicad_dru  .kicad_sym
 # .pretty/    fp-lib-table  sym-lib-table
+
+# Generated CAD export of the whole board (regenerate via kicad-cli; hand to Mechanical via Drive)
+# NOTE: only the repo-root export is ignored — the source 3D models in steps/ ARE tracked.
+/FlightComputer.step
+/FlightComputer.stp
