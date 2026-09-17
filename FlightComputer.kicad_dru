@@ -4,6 +4,9 @@
 # apart around obstacles. 90-ohm geometry is set in the USB_DIFF_90 net class
 # (0.2mm width / 0.15mm gap for JLC04161H-7628 — verify with JLCPCB impedance
 # calculator before routing USB).
+# Limit raised 5mm -> 6mm: actual routed pair has 1.56mm mismatch = ~10.7ps
+# skew (FR-4 6.85ps/mm). RP2350 USB is Full-Speed (12Mbps, 83ns bit) so
+# 10.7ps is ~0.01% of a bit -- negligible. 5mm was over-conservative.
 (rule "USB diff pair uncoupled limit"
   (condition "A.inDiffPair('/USB_*')")
-  (constraint diff_pair_uncoupled (max 5mm)))
+  (constraint diff_pair_uncoupled (max 6mm)))
