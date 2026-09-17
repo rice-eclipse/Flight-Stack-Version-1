@@ -133,4 +133,9 @@
 		(uuid "cb0cddef-c605-481f-b7d1-b43a8cbc201a")
 	)
 	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.step"
+		(offset (xyz 0 0 0))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
+	)
 )

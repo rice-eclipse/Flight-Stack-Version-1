@@ -391,7 +391,12 @@
 			(uuid "aeb4bfd3-61c8-4cdf-a445-fc112e3dafea")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:1X12"
 		(layer "F.Cu")
 		(uuid "0a2f3f6c-ee52-46a8-88c6-f2d166431975")
@@ -1599,7 +1604,12 @@
 			(uuid "279df661-b829-49b9-bef3-5c0910d806bd")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x12_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1608X60"
 		(layer "F.Cu")
 		(uuid "0b76ed8f-0f51-465f-9f66-2d24be6c39f0")
@@ -1743,7 +1753,12 @@
 			(uuid "d4908a46-888d-43b2-99e4-04283218e26f")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "0d0b81d8-989b-4dd2-9d69-34570191f1a6")
@@ -1887,7 +1902,12 @@
 			(uuid "5bf40694-11ec-469e-8125-ad2110cad779")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1608X60"
 		(layer "F.Cu")
 		(uuid "1cce85b4-63df-450c-b0ea-ef84db33de26")
@@ -2031,7 +2051,12 @@
 			(uuid "b078902d-bd63-4968-8624-ece6581ec683")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1608X60"
 		(layer "F.Cu")
 		(uuid "286028fc-8601-4e91-b039-2d10b82b97b1")
@@ -2175,7 +2200,12 @@
 			(uuid "7c452a84-1d87-4261-8e99-71ee9083dfe3")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "2a480d95-9482-49d3-b78b-67258fca1589")
@@ -2319,7 +2349,12 @@
 			(uuid "d1d6f23e-3042-44b1-addd-98892a46367c")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RP2350_60QFN_MINIMAL_RP2350-QFN-60-1EP_7X7_P0.4MM_EP3.4X3.4MM_THERMALVIAS"
 		(layer "F.Cu")
 		(uuid "2a7001cb-5073-471d-b8a7-1ed4d74552cf")
@@ -3616,7 +3651,12 @@
 			(uuid "985b563e-e413-432b-a6e4-70ccdeff9097")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:B3B-XH-A"
 		(layer "F.Cu")
 		(uuid "2bfa7801-9c1d-4a51-9efe-f1ca09a921aa")
@@ -3898,7 +3938,12 @@
 			(uuid "0e5c8a74-6758-4403-8f91-b534d3feb2f1")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1005X40"
 		(layer "F.Cu")
 		(uuid "2f726ca7-deac-406a-8f72-36373e74f738")
@@ -4042,7 +4087,12 @@
 			(uuid "ed2db62a-c490-4812-97f6-db4ba99514ca")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC2012X110"
 		(layer "F.Cu")
 		(uuid "373b22f6-bf1d-4cad-99a0-312bb1bea6a1")
@@ -4186,7 +4236,12 @@
 			(uuid "2ee84f72-4cf2-4d3a-b8a6-ce53d2a30c45")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:PQFN50P300X300X80-16N"
 		(layer "F.Cu")
 		(uuid "3ae27c52-04f0-41c0-b4f1-9d37d507358a")
@@ -4843,7 +4898,12 @@
 			(uuid "70861269-b733-4f0a-96be-ae1c27cacb5b")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:MOUNTINGHOLE_MOUNTINGHOLE_2.7MM_M2.5"
 		(layer "F.Cu")
 		(uuid "422f848f-0ae6-4706-a507-ffdd82cf8f59")
@@ -5265,7 +5325,12 @@
 			(uuid "457b223f-73cc-4329-ba48-bde186546429")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1608X60"
 		(layer "F.Cu")
 		(uuid "4ddd3643-9d7e-485d-bf30-c322022b3847")
@@ -5409,7 +5474,12 @@
 			(uuid "914452a5-c451-48a0-bc2d-c97a01cfb82b")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:1X03"
 		(layer "F.Cu")
 		(uuid "50227247-b3ba-418a-9fe4-b93768c7bc09")
@@ -5762,7 +5832,12 @@
 			(uuid "4ee8b640-c357-40e4-bbf1-81cb253f6f66")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "58817722-8c1b-4c46-bba1-21661d0820d1")
@@ -5906,7 +5981,12 @@
 			(uuid "e39a27c0-aabd-49b1-b10d-8a7531fdb942")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "5ae2977d-2217-4d55-b813-8c664158aada")
@@ -6050,7 +6130,12 @@
 			(uuid "22da8f34-cfd5-4620-99db-8a64732f8b97")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "5f314b07-d674-4f7e-8f89-268e63a1e25b")
@@ -6194,7 +6279,12 @@
 			(uuid "913b5d5d-33a1-4b6e-936d-4bb93291ab13")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:1X01"
 		(layer "F.Cu")
 		(uuid "649ceaca-5feb-45fd-b985-1413bc0bd762")
@@ -6360,7 +6450,12 @@
 			(uuid "22ca64bd-0c28-4506-8f6f-c6e7ce785d0e")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "64ab70e6-9cfe-4645-b23b-6520fff48a3b")
@@ -6504,7 +6599,12 @@
 			(uuid "77c7da72-b0f8-4d62-9f0b-b0c3176e7035")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:1X01"
 		(layer "F.Cu")
 		(uuid "6757b78e-7843-46a1-beb6-d1117bdda110")
@@ -6670,7 +6770,12 @@
 			(uuid "b13c2279-835e-4796-b2a9-83bfdef8aa52")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:MOUNTINGHOLE_MOUNTINGHOLE_2.7MM_M2.5"
 		(layer "F.Cu")
 		(uuid "67ee8282-87aa-454d-95c4-107048bfe940")
@@ -6942,7 +7047,12 @@
 			(uuid "5d57e188-e49e-40b8-a45c-8a5dc6dff45e")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1005X40"
 		(layer "F.Cu")
 		(uuid "6c7c26c0-65bd-4632-beb3-d87c5a09a587")
@@ -7086,7 +7196,12 @@
 			(uuid "02e854c0-5d9e-4444-9cdb-1a19c931d6d8")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1005X40"
 		(layer "F.Cu")
 		(uuid "6cf54247-168a-4d92-af5d-181ddbb68b67")
@@ -7230,7 +7345,12 @@
 			(uuid "8347ef34-6647-4ba3-bc50-87054c1f6192")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:LEDC1608X35N_FLAT-B"
 		(layer "F.Cu")
 		(uuid "6e5e41b9-9189-4353-9fb0-4510edb63aaf")
@@ -7384,7 +7504,12 @@
 			(uuid "90c955c5-a483-43a0-a30d-6b68af9c115a")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "6e85b0ea-84c7-49c4-93b6-6dcd3d96b86b")
@@ -7528,7 +7653,12 @@
 			(uuid "83120fe7-7939-4ca8-8241-8e06e788167b")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:LGA12_2X2X0P9_ROM"
 		(layer "F.Cu")
 		(uuid "6ff96da6-3e46-4b26-948b-557d43a7a31b")
@@ -9168,7 +9298,12 @@
 			(uuid "73e687a3-3333-41f8-b784-00473c66b210")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "7532d92d-07a9-48cb-9d5a-971418853e3b")
@@ -9312,7 +9447,12 @@
 			(uuid "abd357ef-4115-4145-b8bf-0f171cb73ebb")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1005X40"
 		(layer "F.Cu")
 		(uuid "7587c3c0-f27e-41f6-9b69-a0b76be71831")
@@ -9456,7 +9596,12 @@
 			(uuid "2d8e4bfb-5afe-470e-81fb-5e5886e2cf49")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC2012X110"
 		(layer "F.Cu")
 		(uuid "77d83eb4-78a6-48d0-a595-89ae0fdc8d8a")
@@ -9600,7 +9745,12 @@
 			(uuid "8ab41da1-63c5-4e49-8f8b-0561437a9542")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:TSOT26-WU_DIO"
 		(layer "F.Cu")
 		(uuid "7a6be381-2b2b-4683-bd1c-39826c6688e4")
@@ -10685,7 +10835,12 @@
 			(uuid "47a85b25-aa39-4062-9a92-f30c69ba9852")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "7adf2dab-8c49-45e2-adde-2df78c352e96")
@@ -10829,7 +10984,12 @@
 			(uuid "66244c6c-a42e-4a24-b2c1-c67db063c42d")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "7e18d730-78c9-4206-bc62-287aa52bb229")
@@ -10973,7 +11133,12 @@
 			(uuid "4b33b0d1-6845-436e-b4e1-092e972c1545")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "807e13dd-28ee-4ef8-9e12-43dc8c62b1af")
@@ -11117,7 +11282,12 @@
 			(uuid "5d570b7e-ecf0-44a5-8ebd-927e3796603f")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:INDC2009X120"
 		(layer "F.Cu")
 		(uuid "81c5e7eb-5c37-4989-8b70-bd10e443bb80")
@@ -11261,7 +11431,12 @@
 			(uuid "dbf90e1f-6184-4a00-84fa-d3c69ff00e70")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "83ff3294-30ff-4a26-a475-6f958a152b2f")
@@ -11405,7 +11580,12 @@
 			(uuid "d9dced83-7fe1-48f3-97c0-d4b0089fb967")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:SOIC-8_5P28X5P28_WIN"
 		(layer "F.Cu")
 		(uuid "86cd4c87-13fa-4e67-a202-ff6035cb81e4")
@@ -12604,7 +12784,12 @@
 			(uuid "f3808bdf-22f7-4262-af6c-e496274e08f8")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "8716f5ca-88ca-4676-acdc-c6b8aa67a093")
@@ -12748,7 +12933,12 @@
 			(uuid "4b54c72e-68ae-4840-8c2e-fd95ad58a39a")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1608X60"
 		(layer "F.Cu")
 		(uuid "89651a77-5a3b-4be9-80c4-3adde246ac2f")
@@ -12892,7 +13082,12 @@
 			(uuid "dad1ef80-a0e3-4c0b-a4b4-8fa9feb439d0")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1608X60"
 		(layer "F.Cu")
 		(uuid "93750f52-a32c-4059-bcfd-7d1e13415f8c")
@@ -13036,7 +13231,12 @@
 			(uuid "1fc4c97e-beba-4a3a-9ae3-606504316327")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:B1,27"
 		(layer "F.Cu")
 		(uuid "9df26455-8fa6-421a-ba3f-832447d63b62")
@@ -13253,7 +13453,12 @@
 			(uuid "edcf5e66-8abd-4f40-bdde-2eb3a5a653e4")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:IC_TPS2121RUXR"
 		(layer "F.Cu")
 		(uuid "a177c70f-76ac-460d-99ad-b8db182ac313")
@@ -14256,7 +14461,12 @@
 			(uuid "3621b9c6-638a-464c-a339-c953377a87d3")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "a552d1d9-921b-4917-9690-32b0d808561e")
@@ -14400,7 +14610,12 @@
 			(uuid "6595a205-a577-45a7-a8bd-8c41100fc83d")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:MMC5983MA_MEM"
 		(layer "F.Cu")
 		(uuid "a5a1bb23-e737-412f-99d8-2cb0ff4754df")
@@ -15527,7 +15742,12 @@
 			(uuid "96c6fd52-41a7-41fb-b5b8-01cf900c6afa")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "a9f2cbdb-e85c-4e59-9267-9bd89b13d60d")
@@ -15671,7 +15891,12 @@
 			(uuid "0e8dfd66-ba8d-4b8a-a7dd-6779a37ad194")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "aa0911e1-31c8-4f4b-8798-8af7c9eaf144")
@@ -15815,7 +16040,12 @@
 			(uuid "6f062b5e-b704-4a11-b977-907a40463f70")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1005X60"
 		(layer "F.Cu")
 		(uuid "ab07aaab-f70a-4c9c-b1ee-78fe485acd4e")
@@ -15959,7 +16189,12 @@
 			(uuid "7cc4a94a-3ec7-4a17-9e9e-771324562494")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "af11da4a-ec49-4332-bce1-2c32c69baa02")
@@ -16103,7 +16338,12 @@
 			(uuid "0bbdff66-eaf4-4340-aa12-cd53bdb7d29b")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:INDC2009X120"
 		(layer "F.Cu")
 		(uuid "b334c864-ee5a-450d-b704-f27d25bef7b2")
@@ -16247,7 +16487,12 @@
 			(uuid "79c2a1a8-bbe6-4a00-93c9-55bb6bfa7241")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "b85838bf-fce4-45ab-858e-596ab2860128")
@@ -16391,7 +16636,12 @@
 			(uuid "b47e3267-a00e-49d9-bc2a-536452bad819")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1005X60"
 		(layer "F.Cu")
 		(uuid "b97455d8-4340-47b0-82bc-c1d7beef97b8")
@@ -16535,7 +16785,12 @@
 			(uuid "c6c24f7c-31ac-4487-a64e-767b669b1ec3")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "bacce9c9-32ce-48da-a934-dded49b6a860")
@@ -16679,7 +16934,12 @@
 			(uuid "1bc5e100-07d8-44ae-ac40-07330ae3054a")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC2012X65"
 		(layer "F.Cu")
 		(uuid "bd3becd8-f8f8-4240-94e9-16d31745d402")
@@ -16823,7 +17083,12 @@
 			(uuid "80e38d02-b3f1-43cc-844d-ee92ec046ae1")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:MOUNTINGHOLE_MOUNTINGHOLE_2.7MM_M2.5"
 		(layer "F.Cu")
 		(uuid "bdbb61a3-fd00-4baa-a3fb-5ff2869431d9")
@@ -17168,7 +17433,12 @@
 			(uuid "125521ae-ce5d-4b79-8b2a-815dec9f0e80")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:1X01"
 		(layer "F.Cu")
 		(uuid "d1f1fecd-0a7d-4025-8a4a-38fb1dee52f5")
@@ -17334,7 +17604,12 @@
 			(uuid "cbb1ac2b-a055-441e-abc7-f13e9d196a5c")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1005X60"
 		(layer "F.Cu")
 		(uuid "d716cbc7-bf7d-41ac-9088-ff5b083b71a2")
@@ -17478,7 +17753,12 @@
 			(uuid "099b0edf-5841-4069-9f0d-83eaa363d744")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1608X85"
 		(layer "F.Cu")
 		(uuid "da5cc1c1-fab4-4412-95ba-e1286b14a98c")
@@ -17622,7 +17902,12 @@
 			(uuid "bb7d5e6a-e6d4-424a-92ac-ca756ea2206b")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC2012X65"
 		(layer "F.Cu")
 		(uuid "dfff8839-e369-4168-9cc7-401e188fdf9a")
@@ -17766,7 +18051,12 @@
 			(uuid "63ec146e-03da-4aab-b7f1-2001b3adb699")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:1X01"
 		(layer "F.Cu")
 		(uuid "e06ff0e9-77d9-4d61-b3bf-2ff899b618dd")
@@ -17932,7 +18222,12 @@
 			(uuid "88b0f85a-6a01-4d78-8ef1-7bc56bf2da3a")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CRYSTAL_CRYSTAL_SMD_3225-4PIN_3.2X2.5MM"
 		(layer "F.Cu")
 		(uuid "e19d3af6-6e52-48be-8027-48012f806564")
@@ -18186,7 +18481,12 @@
 			(uuid "a3f9e031-6514-46d9-8bf5-11e8e04aba19")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:1X03"
 		(layer "F.Cu")
 		(uuid "e3bad488-8028-45c4-a298-2eb9596ef4df")
@@ -18539,7 +18839,12 @@
 			(uuid "0820226c-f3c0-4af5-94b8-7b03406ee9fc")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:1X03"
 		(layer "F.Cu")
 		(uuid "e83f5052-c01a-4422-9330-463051955857")
@@ -18892,7 +19197,12 @@
 			(uuid "f93029a8-03b3-4eb1-9e69-7e298271e913")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC1005X60"
 		(layer "F.Cu")
 		(uuid "eb6f89f6-f676-4294-bf3f-3f51c43b3191")
@@ -19036,7 +19346,12 @@
 			(uuid "05c91533-ba7e-456c-813a-80d37b401711")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:IC_ICM-45686"
 		(layer "F.Cu")
 		(uuid "edf6183c-4e78-4bc7-a179-16629019bae2")
@@ -20490,7 +20805,12 @@
 			(uuid "7528f0ae-a150-4ffc-b63c-3699ba0587af")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPC2012X110"
 		(layer "F.Cu")
 		(uuid "f77e8de2-91c8-4141-8fdb-2ab1fe1ff28a")
@@ -20634,7 +20954,12 @@
 			(uuid "96d13ba4-96ac-410f-9295-4711505ddd55")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:BUTTON_SWITCH_SMD_SW_PUSH_1P1T_NO_VERTICAL_WUERTH_434133025816"
 		(layer "F.Cu")
 		(uuid "fc421da0-b36f-4404-aac3-82a8221d3fdc")
@@ -21645,7 +21970,12 @@
 			(uuid "a8dda8c2-720b-4dc5-acd4-9b5a90245378")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:RESC1005X40"
 		(layer "B.Cu")
 		(uuid "5dbc088d-007f-4780-a35c-5603e70e0a34")
@@ -21791,7 +22121,12 @@
 			(uuid "7bc86f99-7bb8-4445-b455-e682ed33a2bf")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:12401832E402A"
 		(layer "B.Cu")
 		(uuid "61de91c5-9a59-4ec0-9228-d5d46ddf7e4e")
@@ -22550,7 +22885,12 @@
 			(uuid "0fe24155-76bd-4778-9b83-856585fcbbca")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:CAPMP3216X180N"
 		(layer "B.Cu")
 		(uuid "b1c584c4-aec9-42db-a885-e430b77411f6")
@@ -22706,7 +23046,12 @@
 			(uuid "2a3fb06a-4851-43fe-8881-efa15dc03d0d")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(footprint "FlightComputer:SOT230P700X170-4"
 		(layer "B.Cu")
 		(uuid "b5d2ee08-4320-4e86-91cb-b537371cb082")
@@ -22927,7 +23272,12 @@
 			(uuid "8bb5519a-7cba-4260-9478-19f48c97dd06")
 		)
 		(embedded_fonts no)
-	)
+			(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.step"
+			(offset (xyz 0 0 0))
+			(scale (xyz 1 1 1))
+			(rotate (xyz 0 0 0))
+		)
+)
 	(gr_circle
 		(center 148.5011 105.0036)
 		(end 185.3311 105.0036)
