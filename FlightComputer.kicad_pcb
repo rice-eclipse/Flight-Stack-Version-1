@@ -154,7 +154,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "060a3aaa-0f2b-4417-8d0e-7783517b49c8")
-		(at 178.5 135 180)
+		(at 166.3230 118.9895 180)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
@@ -5888,7 +5888,7 @@
 	(footprint "FlightComputer:MOUNTINGHOLE_MOUNTINGHOLE_2.7MM_M2.5"
 		(layer "F.Cu")
 		(uuid "3e5a35c8-7afb-45dc-a243-201a0e1dff9d")
-		(at 134.5 83)
+		(at 133.5000 81.5000)
 		(descr "Mounting Hole 2.7mm, no annular, M2.5")
 		(property "Reference" "H1"
 			(at 3.9089 -0.0136 0)
@@ -6016,7 +6016,7 @@
 	(footprint "FlightComputer:MOUNTINGHOLE_MOUNTINGHOLE_2.7MM_M2.5"
 		(layer "F.Cu")
 		(uuid "422f848f-0ae6-4706-a507-ffdd82cf8f59")
-		(at 170.5 119)
+		(at 169.5000 117.5000)
 		(descr "Mounting Hole 2.7mm, no annular, M2.5")
 		(property "Reference" "H4"
 			(at 3.9089 -0.0136 0)
@@ -6144,7 +6144,7 @@
 	(footprint "FlightComputer:MOUNTINGHOLE_MOUNTINGHOLE_2.7MM_M2.5"
 		(layer "F.Cu")
 		(uuid "4464fc9c-e042-455f-a29a-d6a182c2db0d")
-		(at 170.5 83)
+		(at 169.5000 81.5000)
 		(descr "Mounting Hole 2.7mm, no annular, M2.5")
 		(property "Reference" "H2"
 			(at 3.9089 -0.0136 0)
@@ -7439,7 +7439,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "5fba6e8a-6056-4d12-8336-5d2607a47595")
-		(at 158.5 126)
+		(at 157.9712 123.9981)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -14248,7 +14248,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "9ef865bf-0741-412c-848f-e30cd42d5691")
-		(at 140 136.5)
+		(at 148.7741 108.3006)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -18819,7 +18819,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "d76d4e97-32e6-4a89-b9f3-d18b8cdb1fdc")
-		(at 150 125.5)
+		(at 150.0030 125.4472)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -20213,7 +20213,7 @@
 	(footprint "FlightComputer:MOUNTINGHOLE_MOUNTINGHOLE_2.7MM_M2.5"
 		(layer "F.Cu")
 		(uuid "e629ce5b-9093-4266-8436-9fb1cfe75a8e")
-		(at 134.5 119)
+		(at 133.5000 117.5000)
 		(descr "Mounting Hole 2.7mm, no annular, M2.5")
 		(property "Reference" "H3"
 			(at 3.9089 -0.0136 0)
