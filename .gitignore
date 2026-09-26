@@ -40,3 +40,4 @@ Thumbs.db
 # NOTE: only the repo-root export is ignored — the source 3D models in steps/ ARE tracked.
 /FlightComputer.step
 /FlightComputer.stp
+/FlightComputer-board.step
