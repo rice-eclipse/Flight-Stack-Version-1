@@ -734,7 +734,7 @@
       {
         "filename": "FlightComputer.kicad_sch",
         "name": "FlightComputer",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "91d9bad4-a191-4256-b89f-65c2acf11eae"
       }
     ],
     "used_designators": "",
@@ -743,7 +743,7 @@
   "sheets": [
     [
       "91d9bad4-a191-4256-b89f-65c2acf11eae",
-      "Root"
+      "FlightComputer"
     ]
   ],
   "text_variables": {},
